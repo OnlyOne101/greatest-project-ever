@@ -1,1 +1,3 @@
-print("Hello World")
+word = "World"
+
+print(f"Hello {word}")
